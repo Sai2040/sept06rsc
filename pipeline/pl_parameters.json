@@ -1,10 +1,20 @@
 {
 	"name": "pl_parameters",
 	"properties": {
+		"activities": [
+			{
+				"name": "Filter1",
+				"type": "Filter",
+				"dependsOn": [],
+				"userProperties": []
+			}
+		],
 		"parameters": {
 			"account_name": {
-				"type": "string",
-				"defaultValue": "ab-8899"
+				"type": "array",
+				"defaultValue": [
+					"ccc"
+				]
 			}
 		},
 		"annotations": []
