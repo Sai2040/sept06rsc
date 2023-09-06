@@ -1,0 +1,14 @@
+{
+	"name": "PL_array",
+	"properties": {
+		"variables": {
+			"var_animal": {
+				"type": "Array",
+				"defaultValue": [
+					"[\"lion\".\"tiger\",\"ccc\",\"ddd\"]"
+				]
+			}
+		},
+		"annotations": []
+	}
+}
