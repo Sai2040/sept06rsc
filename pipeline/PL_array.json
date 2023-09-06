@@ -16,13 +16,13 @@
 			}
 		],
 		"variables": {
-			"var_animal": {
+			"Sai Charan Raavi": {
 				"type": "Array",
 				"defaultValue": [
-					"lion",
-					"tiger",
-					"ccc",
-					"ddd"
+					"a",
+					"b",
+					"c",
+					"d"
 				]
 			}
 		},
