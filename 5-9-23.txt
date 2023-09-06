@@ -1,0 +1,22 @@
+5-9-23
+
+$---> system generated container.
+
+Indexing DB----> Indexing server----> Internally use ELK Server //partition layer in storage architecture azure.
+  |
+ Cache
+
+serverless??
+
+ADF: (azure data factory)
+
+[SA----> ADF------> SA],.......
+
+ADF---> 1.Linked Service, 2. 
+
+pipeline--> set of activities
+
+
+
+
+
