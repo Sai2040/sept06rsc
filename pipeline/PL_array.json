@@ -13,6 +13,22 @@
 						"type": "Expression"
 					}
 				}
+			},
+			{
+				"name": "actFilter1",
+				"type": "Filter",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"items": {
+						"value": "@variables('Sai Charan Raavi')",
+						"type": "Expression"
+					},
+					"condition": {
+						"value": "@not(equals(item(),'c' ))",
+						"type": "Expression"
+					}
+				}
 			}
 		],
 		"variables": {
